@@ -1,5 +1,8 @@
 # YouTube Trending Video Exploration in US
 
+## Blog 
+[YouTube Trending Video Exploration in US](https://moonlight43.home.blog/)
+
 ## Data Source
 
 [Kaggle Trending YouTube Video Statistics](https://www.kaggle.com/datasnaek/youtube-new#USvideos.csv) US data
